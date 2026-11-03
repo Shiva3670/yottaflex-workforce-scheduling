@@ -1,0 +1,50 @@
+[
+  {
+    "team_id":"TEAM-0001",
+    "team_name":"Operations Team 001",
+    "location":"Adoni",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0002",
+    "team_name":"Operations Team 002",
+    "location":"Malegaon",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0003",
+    "team_name":"Operations Team 003",
+    "location":"New Delhi",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0004",
+    "team_name":"Operations Team 004",
+    "location":"Noida",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0005",
+    "team_name":"Operations Team 005",
+    "location":"Bongaigaon",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0006",
+    "team_name":"Operations Team 006",
+    "location":"Allahabad",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0007",
+    "team_name":"Operations Team 007",
+    "location":"Jammu",
+    "active":true
+  },
+  {
+    "team_id":"TEAM-0008",
+    "team_name":"Operations Team 008",
+    "location":"Aligarh",
+    "active":true
+  }
+]

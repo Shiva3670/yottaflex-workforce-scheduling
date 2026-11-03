@@ -1,0 +1,2 @@
+swap_request_id,source_assignment_id,requester_employee_id,target_employee_id,status,manager_id,created_at,decided_at,applied_at
+SWP-2026-000001,ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000009,EMP-000009,EMP-000048,APPLIED,,2026-01-01T00:00:00,,2026-01-01T00:00:00

@@ -1,0 +1,13 @@
+[
+  {
+    "swap_request_id":"SWP-2026-000001",
+    "source_assignment_id":"ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000009",
+    "requester_employee_id":"EMP-000009",
+    "target_employee_id":"EMP-000048",
+    "status":"APPLIED",
+    "manager_id":"",
+    "created_at":"2026-01-01T00:00:00",
+    "decided_at":"",
+    "applied_at":"2026-01-01T00:00:00"
+  }
+]

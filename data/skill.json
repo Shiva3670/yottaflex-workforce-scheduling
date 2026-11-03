@@ -1,0 +1,42 @@
+[
+  {
+    "skill_id":"SKL-001",
+    "skill_code":"GENERAL",
+    "skill_name":"General"
+  },
+  {
+    "skill_id":"SKL-002",
+    "skill_code":"FORKLIFT",
+    "skill_name":"Forklift"
+  },
+  {
+    "skill_id":"SKL-003",
+    "skill_code":"FIRST_AID",
+    "skill_name":"First Aid"
+  },
+  {
+    "skill_id":"SKL-004",
+    "skill_code":"QUALITY",
+    "skill_name":"Quality"
+  },
+  {
+    "skill_id":"SKL-005",
+    "skill_code":"PACKING",
+    "skill_name":"Packing"
+  },
+  {
+    "skill_id":"SKL-006",
+    "skill_code":"DISPATCH",
+    "skill_name":"Dispatch"
+  },
+  {
+    "skill_id":"SKL-007",
+    "skill_code":"INVENTORY",
+    "skill_name":"Inventory"
+  },
+  {
+    "skill_id":"SKL-008",
+    "skill_code":"SUPERVISION",
+    "skill_name":"Supervision"
+  }
+]

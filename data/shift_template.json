@@ -1,0 +1,29 @@
+[
+  {
+    "shift_template_id":"TPL-A",
+    "shift_code":"A",
+    "shift_name":"Morning",
+    "start_time":"06:00",
+    "end_time":"14:00",
+    "duration_hours":8,
+    "is_overnight":false
+  },
+  {
+    "shift_template_id":"TPL-B",
+    "shift_code":"B",
+    "shift_name":"Evening",
+    "start_time":"14:00",
+    "end_time":"22:00",
+    "duration_hours":8,
+    "is_overnight":false
+  },
+  {
+    "shift_template_id":"TPL-C",
+    "shift_code":"C",
+    "shift_name":"Night",
+    "start_time":"22:00",
+    "end_time":"06:00",
+    "duration_hours":8,
+    "is_overnight":true
+  }
+]

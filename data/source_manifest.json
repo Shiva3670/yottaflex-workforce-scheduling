@@ -1,0 +1,75 @@
+{
+  "project": "YottaFlex Workforce Scheduling",
+  "seed": 20261022,
+  "scale": "starter",
+  "start_date": "2026-01-01",
+  "days": 14,
+  "generated_at_utc": "2026-11-03T04:51:00.664740Z",
+  "tables": {
+    "team": {
+      "rows": 8,
+      "sha256": "b501c15551e4390419a639afaed1183bf6ba5cae05ecaece1b3ec97c08ceea32",
+      "file": "team.csv"
+    },
+    "skill": {
+      "rows": 8,
+      "sha256": "b643286ad235c66a44ce3d3328ac127d4f44bbc891ffc07f5da163e6c27c7bad",
+      "file": "skill.csv"
+    },
+    "shift_template": {
+      "rows": 3,
+      "sha256": "edda1c4c9a67c435ea979fbaee56a04f35c9d3602445706a834b5702c8a184b0",
+      "file": "shift_template.csv"
+    },
+    "employee": {
+      "rows": 80,
+      "sha256": "26033b56940436fcb6932df7b69c10feb521b4e1d3554f436c42b4aaa0ed66e4",
+      "file": "employee.csv"
+    },
+    "employee_skill": {
+      "rows": 162,
+      "sha256": "f9c94a709f0c512470500c745c7b13bbbfb1ed0606a9023a5ae812352066d302",
+      "file": "employee_skill.csv"
+    },
+    "holiday_calendar": {
+      "rows": 0,
+      "sha256": "0f9b9053da38593217ee477dd409dec225eb61e36c71468f60f99077d580786c",
+      "file": "holiday_calendar.csv"
+    },
+    "shift": {
+      "rows": 336,
+      "sha256": "e8d6a596d9a37f3f12165b6d89b49f8793b96d079db7c31927811f6566d3c3e0",
+      "file": "shift.csv"
+    },
+    "coverage_requirement": {
+      "rows": 420,
+      "sha256": "37bb5a9b8370d70ef18393ae360e4d72f385813f0a05d81dba38f31fbbe40513",
+      "file": "coverage_requirement.csv"
+    },
+    "leave_request": {
+      "rows": 120,
+      "sha256": "f94bb8fb52eea75ef4768720703a6b869843b48fab42444b36bf8c8dd91840de",
+      "file": "leave_request.csv"
+    },
+    "shift_assignment": {
+      "rows": 735,
+      "sha256": "b23d6d0d23e59c1d689bb0e34825cac49c1f1f625e215822d26898c411b3720e",
+      "file": "shift_assignment.csv"
+    },
+    "attendance_event": {
+      "rows": 597,
+      "sha256": "7fec6374d2264f887918549c311f2c249a4ee1a21f39e3c0f876365a4769ffe3",
+      "file": "attendance_event.csv"
+    },
+    "swap_request": {
+      "rows": 1,
+      "sha256": "3b9681e9f0b06a76b049d0d156b3a925ed3c38f58ce1cc09b12db7969c5d5c70",
+      "file": "swap_request.csv"
+    },
+    "ground_truth": {
+      "rows": 5,
+      "sha256": "586c50700af423e0032e890c06ce2f65085fe7268dc45fe85fd18c3c4414b5d1",
+      "file": "ground_truth.csv"
+    }
+  }
+}

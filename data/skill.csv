@@ -1,0 +1,9 @@
+skill_id,skill_code,skill_name
+SKL-001,GENERAL,General
+SKL-002,FORKLIFT,Forklift
+SKL-003,FIRST_AID,First Aid
+SKL-004,QUALITY,Quality
+SKL-005,PACKING,Packing
+SKL-006,DISPATCH,Dispatch
+SKL-007,INVENTORY,Inventory
+SKL-008,SUPERVISION,Supervision

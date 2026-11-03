@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "row_counts": {
+    "team": 8,
+    "skill": 8,
+    "shift_template": 3,
+    "employee": 80,
+    "employee_skill": 162,
+    "holiday_calendar": 0,
+    "shift": 336,
+    "coverage_requirement": 420,
+    "leave_request": 120,
+    "shift_assignment": 735,
+    "attendance_event": 597,
+    "swap_request": 1
+  },
+  "issues": [],
+  "ground_truth_rows": 5
+}
