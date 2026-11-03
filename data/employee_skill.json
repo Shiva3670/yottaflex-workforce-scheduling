@@ -1,22 +1,22 @@
 [
   {
     "employee_id":"EMP-000001",
-    "skill_id":"SKL-007",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000002",
+    "employee_id":"EMP-000001",
     "skill_id":"SKL-002",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000002",
-    "skill_id":"SKL-003",
-    "proficiency":"BASIC",
+    "employee_id":"EMP-000001",
+    "skill_id":"SKL-006",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -28,37 +28,51 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000003",
+    "employee_id":"EMP-000002",
+    "skill_id":"SKL-002",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000002",
     "skill_id":"SKL-003",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000002",
+    "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000003",
-    "skill_id":"SKL-006",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000003",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000003",
+    "skill_id":"SKL-007",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000004",
-    "skill_id":"SKL-003",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000004",
-    "skill_id":"SKL-006",
-    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -70,9 +84,30 @@
     "effective_to":""
   },
   {
+    "employee_id":"EMP-000004",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
     "employee_id":"EMP-000005",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-001",
     "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000005",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000005",
+    "skill_id":"SKL-006",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -84,6 +119,20 @@
     "effective_to":""
   },
   {
+    "employee_id":"EMP-000006",
+    "skill_id":"SKL-007",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000007",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
     "employee_id":"EMP-000007",
     "skill_id":"SKL-002",
     "proficiency":"BASIC",
@@ -92,15 +141,22 @@
   },
   {
     "employee_id":"EMP-000007",
-    "skill_id":"SKL-003",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000008",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000008",
-    "skill_id":"SKL-004",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-005",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -112,23 +168,37 @@
     "effective_to":""
   },
   {
+    "employee_id":"EMP-000009",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000009",
+    "skill_id":"SKL-008",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
     "employee_id":"EMP-000010",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000010",
+    "skill_id":"SKL-002",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000011",
-    "skill_id":"SKL-003",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000011",
+    "employee_id":"EMP-000010",
     "skill_id":"SKL-007",
-    "proficiency":"BASIC",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -140,15 +210,15 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000012",
+    "employee_id":"EMP-000011",
     "skill_id":"SKL-007",
-    "proficiency":"BASIC",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000012",
-    "skill_id":"SKL-002",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -156,20 +226,41 @@
   {
     "employee_id":"EMP-000012",
     "skill_id":"SKL-006",
-    "proficiency":"ADVANCED",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000013",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000013",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000013",
     "skill_id":"SKL-003",
-    "proficiency":"ADVANCED",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000013",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000014",
+    "skill_id":"SKL-001",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -182,23 +273,16 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000014",
+    "employee_id":"EMP-000015",
     "skill_id":"SKL-001",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000014",
-    "skill_id":"SKL-002",
-    "proficiency":"BASIC",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000015",
-    "skill_id":"SKL-007",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-003",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -210,6 +294,34 @@
     "effective_to":""
   },
   {
+    "employee_id":"EMP-000015",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000016",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000016",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000016",
+    "skill_id":"SKL-003",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
     "employee_id":"EMP-000016",
     "skill_id":"SKL-007",
     "proficiency":"ADVANCED",
@@ -217,57 +329,50 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000016",
-    "skill_id":"SKL-006",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000016",
-    "skill_id":"SKL-008",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000017",
-    "skill_id":"SKL-004",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
     "employee_id":"EMP-000017",
     "skill_id":"SKL-001",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000018",
-    "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000018",
+    "employee_id":"EMP-000017",
     "skill_id":"SKL-002",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000019",
-    "skill_id":"SKL-004",
+    "employee_id":"EMP-000017",
+    "skill_id":"SKL-006",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000018",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000018",
+    "skill_id":"SKL-005",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000019",
-    "skill_id":"SKL-003",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000019",
+    "skill_id":"SKL-002",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -280,15 +385,36 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000021",
+    "employee_id":"EMP-000020",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000020",
     "skill_id":"SKL-004",
-    "proficiency":"ADVANCED",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000020",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000021",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000021",
+    "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -296,26 +422,26 @@
   {
     "employee_id":"EMP-000021",
     "skill_id":"SKL-005",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000022",
-    "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000022",
-    "skill_id":"SKL-004",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000022",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000023",
     "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -323,7 +449,42 @@
   },
   {
     "employee_id":"EMP-000023",
-    "skill_id":"SKL-003",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000023",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000023",
+    "skill_id":"SKL-008",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000024",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000024",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000024",
+    "skill_id":"SKL-004",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -336,23 +497,9 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000024",
-    "skill_id":"SKL-003",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000024",
-    "skill_id":"SKL-008",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
     "employee_id":"EMP-000025",
-    "skill_id":"SKL-003",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -365,42 +512,28 @@
   },
   {
     "employee_id":"EMP-000025",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000026",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000026",
+    "skill_id":"SKL-007",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000026",
-    "skill_id":"SKL-006",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000026",
-    "skill_id":"SKL-005",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000027",
-    "skill_id":"SKL-005",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000027",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -408,6 +541,55 @@
   {
     "employee_id":"EMP-000027",
     "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000027",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000027",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000027",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000028",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000028",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000028",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000028",
+    "skill_id":"SKL-006",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -420,15 +602,15 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000028",
-    "skill_id":"SKL-006",
+    "employee_id":"EMP-000029",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000028",
-    "skill_id":"SKL-002",
+    "employee_id":"EMP-000029",
+    "skill_id":"SKL-005",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -436,13 +618,6 @@
   {
     "employee_id":"EMP-000029",
     "skill_id":"SKL-006",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000029",
-    "skill_id":"SKL-004",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -456,7 +631,21 @@
   },
   {
     "employee_id":"EMP-000030",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-005",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000030",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000031",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -471,42 +660,84 @@
   {
     "employee_id":"EMP-000031",
     "skill_id":"SKL-003",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000031",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000031",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000032",
+    "skill_id":"SKL-001",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000032",
-    "skill_id":"SKL-005",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000032",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000032",
+    "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000033",
-    "skill_id":"SKL-006",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000034",
     "skill_id":"SKL-001",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000034",
-    "skill_id":"SKL-006",
+    "employee_id":"EMP-000033",
+    "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000034",
-    "skill_id":"SKL-005",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000034",
+    "skill_id":"SKL-002",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000034",
+    "skill_id":"SKL-003",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -519,29 +750,50 @@
   },
   {
     "employee_id":"EMP-000035",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-005",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000035",
-    "skill_id":"SKL-003",
+    "skill_id":"SKL-007",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000036",
-    "skill_id":"SKL-003",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000036",
-    "skill_id":"SKL-006",
+    "skill_id":"SKL-008",
     "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000037",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000037",
+    "skill_id":"SKL-002",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000037",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -554,27 +806,55 @@
   },
   {
     "employee_id":"EMP-000037",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-006",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000038",
-    "skill_id":"SKL-005",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000039",
-    "skill_id":"SKL-001",
+    "employee_id":"EMP-000038",
+    "skill_id":"SKL-002",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000039",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000039",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000040",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000040",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000040",
     "skill_id":"SKL-006",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -588,7 +868,14 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000040",
+    "employee_id":"EMP-000041",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000041",
     "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -596,13 +883,20 @@
   },
   {
     "employee_id":"EMP-000041",
-    "skill_id":"SKL-005",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000041",
+    "employee_id":"EMP-000042",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000042",
     "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -610,35 +904,84 @@
   },
   {
     "employee_id":"EMP-000042",
-    "skill_id":"SKL-005",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-006",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000042",
     "skill_id":"SKL-007",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000042",
-    "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000043",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000043",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000043",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000043",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000043",
+    "skill_id":"SKL-006",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000044",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000044",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000044",
+    "skill_id":"SKL-003",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000044",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000045",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -652,27 +995,69 @@
   },
   {
     "employee_id":"EMP-000045",
-    "skill_id":"SKL-006",
+    "skill_id":"SKL-003",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000045",
+    "skill_id":"SKL-005",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000046",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000046",
+    "skill_id":"SKL-002",
     "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000046",
+    "skill_id":"SKL-003",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000046",
+    "skill_id":"SKL-007",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000047",
-    "skill_id":"SKL-007",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000048",
+    "employee_id":"EMP-000047",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000047",
+    "skill_id":"SKL-006",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000047",
     "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -680,34 +1065,62 @@
   },
   {
     "employee_id":"EMP-000048",
-    "skill_id":"SKL-002",
+    "skill_id":"SKL-001",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000048",
-    "skill_id":"SKL-001",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000049",
-    "skill_id":"SKL-006",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000050",
     "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000051",
+    "employee_id":"EMP-000048",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000048",
+    "skill_id":"SKL-006",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000049",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000049",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000049",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000050",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000050",
     "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -716,6 +1129,34 @@
   {
     "employee_id":"EMP-000051",
     "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000051",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000052",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000052",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000052",
+    "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -729,6 +1170,41 @@
   },
   {
     "employee_id":"EMP-000053",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000053",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000053",
+    "skill_id":"SKL-004",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000053",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000054",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000054",
     "skill_id":"SKL-002",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -736,77 +1212,56 @@
   },
   {
     "employee_id":"EMP-000054",
-    "skill_id":"SKL-008",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000054",
-    "skill_id":"SKL-004",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000054",
-    "skill_id":"SKL-003",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000055",
-    "skill_id":"SKL-005",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000055",
-    "skill_id":"SKL-008",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000055",
     "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000056",
-    "skill_id":"SKL-008",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000056",
+    "employee_id":"EMP-000054",
     "skill_id":"SKL-007",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
+    "employee_id":"EMP-000055",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000055",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000055",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
     "employee_id":"EMP-000056",
-    "skill_id":"SKL-005",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000056",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000057",
     "skill_id":"SKL-001",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000057",
-    "skill_id":"SKL-007",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -819,15 +1274,29 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000058",
-    "skill_id":"SKL-005",
+    "employee_id":"EMP-000057",
+    "skill_id":"SKL-006",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000058",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000058",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000058",
+    "skill_id":"SKL-005",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -841,27 +1310,62 @@
   },
   {
     "employee_id":"EMP-000059",
-    "skill_id":"SKL-003",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000059",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000060",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000060",
     "skill_id":"SKL-006",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000061",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000061",
+    "skill_id":"SKL-002",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000061",
-    "skill_id":"SKL-004",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-006",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000061",
+    "skill_id":"SKL-008",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000062",
     "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -876,35 +1380,70 @@
   },
   {
     "employee_id":"EMP-000063",
-    "skill_id":"SKL-007",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000063",
+    "skill_id":"SKL-007",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000064",
     "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000064",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000064",
+    "skill_id":"SKL-004",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000064",
-    "skill_id":"SKL-005",
+    "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000065",
-    "skill_id":"SKL-004",
+    "skill_id":"SKL-001",
     "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000066",
+    "employee_id":"EMP-000065",
     "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000066",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000066",
+    "skill_id":"SKL-005",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -918,69 +1457,104 @@
   },
   {
     "employee_id":"EMP-000067",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-002",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000067",
-    "skill_id":"SKL-002",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000068",
-    "skill_id":"SKL-006",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000068",
-    "skill_id":"SKL-008",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000069",
     "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000069",
-    "skill_id":"SKL-002",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000069",
-    "skill_id":"SKL-008",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000070",
+    "employee_id":"EMP-000067",
     "skill_id":"SKL-005",
-    "proficiency":"ADVANCED",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000070",
+    "employee_id":"EMP-000067",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000068",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000068",
     "skill_id":"SKL-002",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
+    "employee_id":"EMP-000068",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000069",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000069",
+    "skill_id":"SKL-002",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000069",
+    "skill_id":"SKL-006",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
     "employee_id":"EMP-000070",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000070",
+    "skill_id":"SKL-002",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000070",
+    "skill_id":"SKL-003",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000070",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000071",
     "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -995,21 +1569,42 @@
   },
   {
     "employee_id":"EMP-000072",
-    "skill_id":"SKL-006",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000072",
-    "skill_id":"SKL-002",
+    "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000072",
-    "skill_id":"SKL-008",
+    "skill_id":"SKL-004",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000072",
+    "skill_id":"SKL-005",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000073",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000073",
+    "skill_id":"SKL-002",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000073",
+    "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -1022,15 +1617,22 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000073",
+    "employee_id":"EMP-000074",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000074",
     "skill_id":"SKL-003",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000073",
-    "skill_id":"SKL-001",
+    "employee_id":"EMP-000074",
+    "skill_id":"SKL-007",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
@@ -1044,6 +1646,20 @@
   },
   {
     "employee_id":"EMP-000075",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000075",
+    "skill_id":"SKL-003",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000075",
     "skill_id":"SKL-006",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -1051,22 +1667,15 @@
   },
   {
     "employee_id":"EMP-000075",
-    "skill_id":"SKL-001",
+    "skill_id":"SKL-008",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000076",
-    "skill_id":"SKL-007",
-    "proficiency":"ADVANCED",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000076",
-    "skill_id":"SKL-006",
-    "proficiency":"ADVANCED",
+    "skill_id":"SKL-001",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -1078,9 +1687,9 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000077",
-    "skill_id":"SKL-007",
-    "proficiency":"ADVANCED",
+    "employee_id":"EMP-000076",
+    "skill_id":"SKL-008",
+    "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
@@ -1092,21 +1701,28 @@
     "effective_to":""
   },
   {
-    "employee_id":"EMP-000078",
-    "skill_id":"SKL-003",
+    "employee_id":"EMP-000077",
+    "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000078",
-    "skill_id":"SKL-005",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000078",
+    "skill_id":"SKL-006",
+    "proficiency":"BASIC",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000079",
     "skill_id":"SKL-001",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
@@ -1114,22 +1730,29 @@
   },
   {
     "employee_id":"EMP-000079",
-    "skill_id":"SKL-006",
+    "skill_id":"SKL-002",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000080",
+    "skill_id":"SKL-001",
+    "proficiency":"ADVANCED",
+    "effective_from":"2025-12-02",
+    "effective_to":""
+  },
+  {
+    "employee_id":"EMP-000080",
+    "skill_id":"SKL-004",
     "proficiency":"BASIC",
     "effective_from":"2025-12-02",
     "effective_to":""
   },
   {
     "employee_id":"EMP-000080",
-    "skill_id":"SKL-007",
-    "proficiency":"BASIC",
-    "effective_from":"2025-12-02",
-    "effective_to":""
-  },
-  {
-    "employee_id":"EMP-000080",
-    "skill_id":"SKL-005",
-    "proficiency":"BASIC",
+    "skill_id":"SKL-008",
+    "proficiency":"ADVANCED",
     "effective_from":"2025-12-02",
     "effective_to":""
   }

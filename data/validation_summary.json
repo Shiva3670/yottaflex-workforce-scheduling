@@ -5,15 +5,79 @@
     "skill": 8,
     "shift_template": 3,
     "employee": 80,
-    "employee_skill": 162,
+    "employee_skill": 251,
     "holiday_calendar": 0,
-    "shift": 336,
+    "shift": 337,
     "coverage_requirement": 420,
-    "leave_request": 120,
-    "shift_assignment": 735,
-    "attendance_event": 597,
-    "swap_request": 1
+    "leave_request": 121,
+    "shift_assignment": 754,
+    "attendance_event": 713,
+    "swap_request": 1,
+    "ground_truth": 5
   },
   "issues": [],
-  "ground_truth_rows": 5
+  "ground_truth_rows": 5,
+  "anomaly_verification": {
+    "status": "PASS",
+    "expected_anomaly_types": [
+      "APPROVED_LEAVE_OVERLAP",
+      "DOUBLE_BOOKED",
+      "OVERTIME_CAP_EXCEEDED",
+      "REQUIRED_SKILL_ABSENT",
+      "SWAP_WITHOUT_APPROVAL"
+    ],
+    "detected_anomaly_types": [
+      "APPROVED_LEAVE_OVERLAP",
+      "DOUBLE_BOOKED",
+      "OVERTIME_CAP_EXCEEDED",
+      "REQUIRED_SKILL_ABSENT",
+      "SWAP_WITHOUT_APPROVAL"
+    ],
+    "details": {
+      "APPROVED_LEAVE_OVERLAP": {
+        "detected_count": 1,
+        "ground_truth_count": 1,
+        "matches_ground_truth": true,
+        "detected_entity_ids": [
+          "ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000025"
+        ]
+      },
+      "DOUBLE_BOOKED": {
+        "detected_count": 1,
+        "ground_truth_count": 1,
+        "matches_ground_truth": true,
+        "detected_entity_ids": [
+          "ANOM-DOUBLE-ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000049"
+        ]
+      },
+      "OVERTIME_CAP_EXCEEDED": {
+        "detected_count": 1,
+        "ground_truth_count": 1,
+        "matches_ground_truth": true,
+        "detected_entity_ids": [
+          "EMP-000009"
+        ]
+      },
+      "REQUIRED_SKILL_ABSENT": {
+        "detected_count": 1,
+        "ground_truth_count": 1,
+        "matches_ground_truth": true,
+        "detected_entity_ids": [
+          "ASG-SHIFT-2026-01-01-A-T001-SKL-002-EMP-000001"
+        ]
+      },
+      "SWAP_WITHOUT_APPROVAL": {
+        "detected_count": 1,
+        "ground_truth_count": 1,
+        "matches_ground_truth": true,
+        "detected_entity_ids": [
+          "SWP-2026-000001"
+        ]
+      }
+    }
+  },
+  "limitations": [
+    "Overtime detection checks the stored weekly_hours_after_assignment field; actual weekly hours are not independently reconstructed.",
+    "Ground-truth matching validates labelled anomaly IDs, not the correctness of every business rule."
+  ]
 }

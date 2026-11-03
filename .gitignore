@@ -5,3 +5,12 @@ node_modules/
 dist/
 .env
 *.db
+# Full-scale generated dataset (keep locally)
+data_full/
+
+# Local backup files
+backend/app/optimizer_backup.py
+
+# Python cache
+__pycache__/
+*.py[cod]

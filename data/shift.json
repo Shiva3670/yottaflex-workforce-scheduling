@@ -2686,5 +2686,13 @@
     "start_at":"2026-01-14T22:00:00",
     "end_at":"2026-01-15T06:00:00",
     "status":"PLANNED"
+  },
+  {
+    "shift_id":"SHIFT-ANOM-DOUBLE-ANOM-DOUBLE-ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000049",
+    "team_id":"TEAM-0001",
+    "shift_template_id":"TPL-A",
+    "start_at":"2026-01-01T06:00:00",
+    "end_at":"2026-01-01T14:00:00",
+    "status":"PLANNED"
   }
 ]

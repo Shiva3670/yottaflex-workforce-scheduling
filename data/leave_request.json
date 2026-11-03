@@ -2,7 +2,7 @@
   {
     "leave_request_id":"LVE-2026-000001",
     "employee_id":"EMP-000046",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-09",
     "end_date":"2026-01-09",
     "status":"APPROVED",
@@ -12,19 +12,19 @@
   {
     "leave_request_id":"LVE-2026-000002",
     "employee_id":"EMP-000069",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-10",
     "end_date":"2026-01-10",
-    "status":"APPROVED",
+    "status":"PENDING",
     "submitted_at":"2026-01-07T00:00:00",
-    "decided_at":"2026-01-08T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000003",
     "employee_id":"EMP-000069",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-04",
+    "end_date":"2026-01-06",
     "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
     "decided_at":"2026-01-02T00:00:00"
@@ -35,9 +35,9 @@
     "leave_type":"PERSONAL",
     "start_date":"2026-01-03",
     "end_date":"2026-01-03",
-    "status":"APPROVED",
+    "status":"PENDING",
     "submitted_at":"2025-12-31T00:00:00",
-    "decided_at":"2026-01-01T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000005",
@@ -45,16 +45,16 @@
     "leave_type":"SICK",
     "start_date":"2026-01-04",
     "end_date":"2026-01-04",
-    "status":"APPROVED",
+    "status":"PENDING",
     "submitted_at":"2026-01-01T00:00:00",
-    "decided_at":"2026-01-02T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000006",
     "employee_id":"EMP-000038",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-15",
+    "end_date":"2026-01-14",
     "status":"REJECTED",
     "submitted_at":"2026-01-10T00:00:00",
     "decided_at":"2026-01-11T00:00:00"
@@ -62,19 +62,19 @@
   {
     "leave_request_id":"LVE-2026-000007",
     "employee_id":"EMP-000055",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-08",
     "end_date":"2026-01-08",
-    "status":"PENDING",
+    "status":"APPROVED",
     "submitted_at":"2026-01-05T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-06T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000008",
     "employee_id":"EMP-000030",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-02",
-    "end_date":"2026-01-02",
+    "end_date":"2026-01-03",
     "status":"APPROVED",
     "submitted_at":"2025-12-30T00:00:00",
     "decided_at":"2025-12-31T00:00:00"
@@ -84,7 +84,7 @@
     "employee_id":"EMP-000058",
     "leave_type":"SICK",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-05",
+    "end_date":"2026-01-04",
     "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
     "decided_at":"2026-01-02T00:00:00"
@@ -94,7 +94,7 @@
     "employee_id":"EMP-000013",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-08",
-    "end_date":"2026-01-08",
+    "end_date":"2026-01-10",
     "status":"APPROVED",
     "submitted_at":"2026-01-05T00:00:00",
     "decided_at":"2026-01-06T00:00:00"
@@ -102,19 +102,19 @@
   {
     "leave_request_id":"LVE-2026-000011",
     "employee_id":"EMP-000037",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-06",
-    "status":"PENDING",
+    "end_date":"2026-01-04",
+    "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-02T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000012",
     "employee_id":"EMP-000021",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-15",
+    "end_date":"2026-01-13",
     "status":"APPROVED",
     "submitted_at":"2026-01-10T00:00:00",
     "decided_at":"2026-01-11T00:00:00"
@@ -122,66 +122,36 @@
   {
     "leave_request_id":"LVE-2026-000013",
     "employee_id":"EMP-000065",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-14",
-    "end_date":"2026-01-14",
-    "status":"APPROVED",
+    "end_date":"2026-01-15",
+    "status":"PENDING",
     "submitted_at":"2026-01-11T00:00:00",
-    "decided_at":"2026-01-12T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000014",
     "employee_id":"EMP-000030",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-06",
-    "status":"REJECTED",
+    "end_date":"2026-01-07",
+    "status":"PENDING",
     "submitted_at":"2026-01-03T00:00:00",
-    "decided_at":"2026-01-04T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000015",
     "employee_id":"EMP-000027",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-06",
-    "status":"PENDING",
+    "end_date":"2026-01-04",
+    "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-02T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000016",
     "employee_id":"EMP-000079",
-    "leave_type":"PERSONAL",
-    "start_date":"2026-01-02",
-    "end_date":"2026-01-03",
-    "status":"PENDING",
-    "submitted_at":"2025-12-30T00:00:00",
-    "decided_at":""
-  },
-  {
-    "leave_request_id":"LVE-2026-000017",
-    "employee_id":"EMP-000047",
-    "leave_type":"PERSONAL",
-    "start_date":"2026-01-14",
-    "end_date":"2026-01-14",
-    "status":"PENDING",
-    "submitted_at":"2026-01-11T00:00:00",
-    "decided_at":""
-  },
-  {
-    "leave_request_id":"LVE-2026-000018",
-    "employee_id":"EMP-000076",
-    "leave_type":"SICK",
-    "start_date":"2026-01-11",
-    "end_date":"2026-01-12",
-    "status":"APPROVED",
-    "submitted_at":"2026-01-08T00:00:00",
-    "decided_at":"2026-01-09T00:00:00"
-  },
-  {
-    "leave_request_id":"LVE-2026-000019",
-    "employee_id":"EMP-000062",
     "leave_type":"ANNUAL",
     "start_date":"2026-01-02",
     "end_date":"2026-01-04",
@@ -190,11 +160,41 @@
     "decided_at":"2025-12-31T00:00:00"
   },
   {
+    "leave_request_id":"LVE-2026-000017",
+    "employee_id":"EMP-000047",
+    "leave_type":"ANNUAL",
+    "start_date":"2026-01-14",
+    "end_date":"2026-01-16",
+    "status":"APPROVED",
+    "submitted_at":"2026-01-11T00:00:00",
+    "decided_at":"2026-01-12T00:00:00"
+  },
+  {
+    "leave_request_id":"LVE-2026-000018",
+    "employee_id":"EMP-000076",
+    "leave_type":"SICK",
+    "start_date":"2026-01-11",
+    "end_date":"2026-01-13",
+    "status":"APPROVED",
+    "submitted_at":"2026-01-08T00:00:00",
+    "decided_at":"2026-01-09T00:00:00"
+  },
+  {
+    "leave_request_id":"LVE-2026-000019",
+    "employee_id":"EMP-000062",
+    "leave_type":"SICK",
+    "start_date":"2026-01-02",
+    "end_date":"2026-01-03",
+    "status":"APPROVED",
+    "submitted_at":"2025-12-30T00:00:00",
+    "decided_at":"2025-12-31T00:00:00"
+  },
+  {
     "leave_request_id":"LVE-2026-000020",
     "employee_id":"EMP-000025",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-15",
+    "end_date":"2026-01-14",
     "status":"APPROVED",
     "submitted_at":"2026-01-10T00:00:00",
     "decided_at":"2026-01-11T00:00:00"
@@ -204,7 +204,7 @@
     "employee_id":"EMP-000005",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-14",
-    "end_date":"2026-01-15",
+    "end_date":"2026-01-14",
     "status":"APPROVED",
     "submitted_at":"2026-01-11T00:00:00",
     "decided_at":"2026-01-12T00:00:00"
@@ -214,7 +214,7 @@
     "employee_id":"EMP-000077",
     "leave_type":"SICK",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-05",
+    "end_date":"2026-01-03",
     "status":"APPROVED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
@@ -224,15 +224,15 @@
     "employee_id":"EMP-000053",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-08",
-    "end_date":"2026-01-08",
-    "status":"APPROVED",
+    "end_date":"2026-01-09",
+    "status":"PENDING",
     "submitted_at":"2026-01-05T00:00:00",
-    "decided_at":"2026-01-06T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000024",
     "employee_id":"EMP-000023",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-03",
     "end_date":"2026-01-04",
     "status":"APPROVED",
@@ -242,9 +242,9 @@
   {
     "leave_request_id":"LVE-2026-000025",
     "employee_id":"EMP-000065",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-05",
-    "end_date":"2026-01-05",
+    "end_date":"2026-01-06",
     "status":"APPROVED",
     "submitted_at":"2026-01-02T00:00:00",
     "decided_at":"2026-01-03T00:00:00"
@@ -252,19 +252,19 @@
   {
     "leave_request_id":"LVE-2026-000026",
     "employee_id":"EMP-000028",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-11",
     "end_date":"2026-01-11",
-    "status":"REJECTED",
+    "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000027",
     "employee_id":"EMP-000051",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-09",
+    "end_date":"2026-01-11",
     "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
     "decided_at":"2026-01-07T00:00:00"
@@ -275,37 +275,37 @@
     "leave_type":"ANNUAL",
     "start_date":"2026-01-09",
     "end_date":"2026-01-09",
-    "status":"PENDING",
+    "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-07T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000029",
     "employee_id":"EMP-000012",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-05",
     "end_date":"2026-01-06",
-    "status":"PENDING",
+    "status":"APPROVED",
     "submitted_at":"2026-01-02T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-03T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000030",
     "employee_id":"EMP-000013",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-14",
-    "status":"PENDING",
+    "end_date":"2026-01-13",
+    "status":"APPROVED",
     "submitted_at":"2026-01-10T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-11T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000031",
     "employee_id":"EMP-000009",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-10",
     "end_date":"2026-01-11",
-    "status":"REJECTED",
+    "status":"APPROVED",
     "submitted_at":"2026-01-07T00:00:00",
     "decided_at":"2026-01-08T00:00:00"
   },
@@ -315,27 +315,27 @@
     "leave_type":"SICK",
     "start_date":"2026-01-02",
     "end_date":"2026-01-04",
-    "status":"APPROVED",
+    "status":"REJECTED",
     "submitted_at":"2025-12-30T00:00:00",
     "decided_at":"2025-12-31T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000033",
     "employee_id":"EMP-000005",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-12",
-    "end_date":"2026-01-13",
-    "status":"PENDING",
+    "end_date":"2026-01-12",
+    "status":"APPROVED",
     "submitted_at":"2026-01-09T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-10T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000034",
     "employee_id":"EMP-000074",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-13",
-    "status":"REJECTED",
+    "end_date":"2026-01-12",
+    "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
   },
@@ -345,16 +345,16 @@
     "leave_type":"ANNUAL",
     "start_date":"2026-01-09",
     "end_date":"2026-01-09",
-    "status":"APPROVED",
+    "status":"PENDING",
     "submitted_at":"2026-01-06T00:00:00",
-    "decided_at":"2026-01-07T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000036",
     "employee_id":"EMP-000004",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-09",
+    "end_date":"2026-01-11",
     "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
     "decided_at":"2026-01-07T00:00:00"
@@ -364,55 +364,55 @@
     "employee_id":"EMP-000018",
     "leave_type":"ANNUAL",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-05",
-    "status":"PENDING",
+    "end_date":"2026-01-06",
+    "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-02T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000038",
     "employee_id":"EMP-000039",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-12",
-    "end_date":"2026-01-12",
-    "status":"PENDING",
+    "end_date":"2026-01-13",
+    "status":"APPROVED",
     "submitted_at":"2026-01-09T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-10T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000039",
     "employee_id":"EMP-000032",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-05",
-    "status":"APPROVED",
+    "end_date":"2026-01-04",
+    "status":"REJECTED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000040",
     "employee_id":"EMP-000080",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-08",
-    "status":"APPROVED",
+    "end_date":"2026-01-07",
+    "status":"REJECTED",
     "submitted_at":"2026-01-03T00:00:00",
     "decided_at":"2026-01-04T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000041",
     "employee_id":"EMP-000061",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-05",
-    "status":"APPROVED",
+    "end_date":"2026-01-03",
+    "status":"REJECTED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000042",
     "employee_id":"EMP-000064",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-07",
     "end_date":"2026-01-08",
     "status":"APPROVED",
@@ -422,9 +422,9 @@
   {
     "leave_request_id":"LVE-2026-000043",
     "employee_id":"EMP-000068",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-10",
+    "end_date":"2026-01-09",
     "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
     "decided_at":"2026-01-07T00:00:00"
@@ -432,7 +432,7 @@
   {
     "leave_request_id":"LVE-2026-000044",
     "employee_id":"EMP-000068",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-08",
     "end_date":"2026-01-08",
     "status":"APPROVED",
@@ -442,19 +442,19 @@
   {
     "leave_request_id":"LVE-2026-000045",
     "employee_id":"EMP-000070",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-10",
-    "end_date":"2026-01-11",
-    "status":"REJECTED",
+    "end_date":"2026-01-12",
+    "status":"APPROVED",
     "submitted_at":"2026-01-07T00:00:00",
     "decided_at":"2026-01-08T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000046",
     "employee_id":"EMP-000007",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-05",
-    "end_date":"2026-01-06",
+    "end_date":"2026-01-05",
     "status":"APPROVED",
     "submitted_at":"2026-01-02T00:00:00",
     "decided_at":"2026-01-03T00:00:00"
@@ -462,7 +462,7 @@
   {
     "leave_request_id":"LVE-2026-000047",
     "employee_id":"EMP-000037",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-05",
     "end_date":"2026-01-06",
     "status":"APPROVED",
@@ -472,9 +472,9 @@
   {
     "leave_request_id":"LVE-2026-000048",
     "employee_id":"EMP-000018",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-01",
-    "end_date":"2026-01-01",
+    "end_date":"2026-01-03",
     "status":"PENDING",
     "submitted_at":"2025-12-29T00:00:00",
     "decided_at":""
@@ -482,10 +482,10 @@
   {
     "leave_request_id":"LVE-2026-000049",
     "employee_id":"EMP-000021",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-10",
-    "end_date":"2026-01-12",
-    "status":"APPROVED",
+    "end_date":"2026-01-10",
+    "status":"REJECTED",
     "submitted_at":"2026-01-07T00:00:00",
     "decided_at":"2026-01-08T00:00:00"
   },
@@ -494,27 +494,27 @@
     "employee_id":"EMP-000043",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-14",
-    "end_date":"2026-01-16",
-    "status":"APPROVED",
+    "end_date":"2026-01-15",
+    "status":"REJECTED",
     "submitted_at":"2026-01-11T00:00:00",
     "decided_at":"2026-01-12T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000051",
     "employee_id":"EMP-000024",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-08",
-    "end_date":"2026-01-08",
-    "status":"APPROVED",
+    "end_date":"2026-01-10",
+    "status":"PENDING",
     "submitted_at":"2026-01-05T00:00:00",
-    "decided_at":"2026-01-06T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000052",
     "employee_id":"EMP-000045",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-07",
+    "end_date":"2026-01-06",
     "status":"APPROVED",
     "submitted_at":"2026-01-03T00:00:00",
     "decided_at":"2026-01-04T00:00:00"
@@ -542,9 +542,9 @@
   {
     "leave_request_id":"LVE-2026-000055",
     "employee_id":"EMP-000041",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-03",
+    "end_date":"2026-01-05",
     "status":"APPROVED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
@@ -552,17 +552,17 @@
   {
     "leave_request_id":"LVE-2026-000056",
     "employee_id":"EMP-000044",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-08",
-    "status":"APPROVED",
+    "end_date":"2026-01-07",
+    "status":"REJECTED",
     "submitted_at":"2026-01-03T00:00:00",
     "decided_at":"2026-01-04T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000057",
     "employee_id":"EMP-000054",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-03",
     "end_date":"2026-01-04",
     "status":"APPROVED",
@@ -572,12 +572,12 @@
   {
     "leave_request_id":"LVE-2026-000058",
     "employee_id":"EMP-000015",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-11",
-    "status":"APPROVED",
+    "end_date":"2026-01-13",
+    "status":"PENDING",
     "submitted_at":"2026-01-08T00:00:00",
-    "decided_at":"2026-01-09T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000059",
@@ -592,9 +592,9 @@
   {
     "leave_request_id":"LVE-2026-000060",
     "employee_id":"EMP-000018",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-10",
-    "end_date":"2026-01-11",
+    "end_date":"2026-01-10",
     "status":"APPROVED",
     "submitted_at":"2026-01-07T00:00:00",
     "decided_at":"2026-01-08T00:00:00"
@@ -602,9 +602,9 @@
   {
     "leave_request_id":"LVE-2026-000061",
     "employee_id":"EMP-000044",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-13",
+    "end_date":"2026-01-15",
     "status":"APPROVED",
     "submitted_at":"2026-01-10T00:00:00",
     "decided_at":"2026-01-11T00:00:00"
@@ -612,9 +612,9 @@
   {
     "leave_request_id":"LVE-2026-000062",
     "employee_id":"EMP-000050",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-10",
+    "end_date":"2026-01-11",
     "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
     "decided_at":"2026-01-07T00:00:00"
@@ -622,9 +622,9 @@
   {
     "leave_request_id":"LVE-2026-000063",
     "employee_id":"EMP-000024",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-02",
-    "end_date":"2026-01-04",
+    "end_date":"2026-01-02",
     "status":"APPROVED",
     "submitted_at":"2025-12-30T00:00:00",
     "decided_at":"2025-12-31T00:00:00"
@@ -634,7 +634,7 @@
     "employee_id":"EMP-000061",
     "leave_type":"SICK",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-04",
+    "end_date":"2026-01-03",
     "status":"APPROVED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
@@ -642,7 +642,7 @@
   {
     "leave_request_id":"LVE-2026-000065",
     "employee_id":"EMP-000073",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-12",
     "end_date":"2026-01-12",
     "status":"APPROVED",
@@ -654,15 +654,15 @@
     "employee_id":"EMP-000014",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-06",
-    "status":"APPROVED",
+    "end_date":"2026-01-04",
+    "status":"REJECTED",
     "submitted_at":"2026-01-01T00:00:00",
     "decided_at":"2026-01-02T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000067",
     "employee_id":"EMP-000035",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-02",
     "end_date":"2026-01-03",
     "status":"APPROVED",
@@ -672,17 +672,17 @@
   {
     "leave_request_id":"LVE-2026-000068",
     "employee_id":"EMP-000024",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-10",
     "end_date":"2026-01-12",
-    "status":"PENDING",
+    "status":"REJECTED",
     "submitted_at":"2026-01-07T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-08T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000069",
     "employee_id":"EMP-000025",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-08",
     "end_date":"2026-01-10",
     "status":"APPROVED",
@@ -694,35 +694,25 @@
     "employee_id":"EMP-000075",
     "leave_type":"SICK",
     "start_date":"2026-01-14",
-    "end_date":"2026-01-16",
-    "status":"APPROVED",
+    "end_date":"2026-01-14",
+    "status":"REJECTED",
     "submitted_at":"2026-01-11T00:00:00",
     "decided_at":"2026-01-12T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000071",
     "employee_id":"EMP-000024",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-10",
-    "end_date":"2026-01-10",
-    "status":"APPROVED",
+    "end_date":"2026-01-12",
+    "status":"PENDING",
     "submitted_at":"2026-01-07T00:00:00",
-    "decided_at":"2026-01-08T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000072",
     "employee_id":"EMP-000049",
-    "leave_type":"PERSONAL",
-    "start_date":"2026-01-12",
-    "end_date":"2026-01-12",
-    "status":"APPROVED",
-    "submitted_at":"2026-01-09T00:00:00",
-    "decided_at":"2026-01-10T00:00:00"
-  },
-  {
-    "leave_request_id":"LVE-2026-000073",
-    "employee_id":"EMP-000021",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-12",
     "end_date":"2026-01-13",
     "status":"PENDING",
@@ -730,11 +720,21 @@
     "decided_at":""
   },
   {
+    "leave_request_id":"LVE-2026-000073",
+    "employee_id":"EMP-000021",
+    "leave_type":"ANNUAL",
+    "start_date":"2026-01-12",
+    "end_date":"2026-01-14",
+    "status":"APPROVED",
+    "submitted_at":"2026-01-09T00:00:00",
+    "decided_at":"2026-01-10T00:00:00"
+  },
+  {
     "leave_request_id":"LVE-2026-000074",
     "employee_id":"EMP-000074",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-04",
+    "end_date":"2026-01-03",
     "status":"APPROVED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
@@ -742,29 +742,29 @@
   {
     "leave_request_id":"LVE-2026-000075",
     "employee_id":"EMP-000043",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-15",
-    "status":"PENDING",
+    "end_date":"2026-01-13",
+    "status":"REJECTED",
     "submitted_at":"2026-01-10T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-11T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000076",
     "employee_id":"EMP-000074",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-02",
-    "end_date":"2026-01-03",
-    "status":"REJECTED",
+    "end_date":"2026-01-02",
+    "status":"APPROVED",
     "submitted_at":"2025-12-30T00:00:00",
     "decided_at":"2025-12-31T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000077",
     "employee_id":"EMP-000076",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-04",
+    "end_date":"2026-01-05",
     "status":"APPROVED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
@@ -772,19 +772,19 @@
   {
     "leave_request_id":"LVE-2026-000078",
     "employee_id":"EMP-000011",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-06",
     "end_date":"2026-01-08",
-    "status":"APPROVED",
+    "status":"REJECTED",
     "submitted_at":"2026-01-03T00:00:00",
     "decided_at":"2026-01-04T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000079",
     "employee_id":"EMP-000059",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-14",
-    "end_date":"2026-01-15",
+    "end_date":"2026-01-16",
     "status":"APPROVED",
     "submitted_at":"2026-01-11T00:00:00",
     "decided_at":"2026-01-12T00:00:00"
@@ -794,27 +794,27 @@
     "employee_id":"EMP-000034",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-06",
-    "status":"REJECTED",
+    "end_date":"2026-01-08",
+    "status":"PENDING",
     "submitted_at":"2026-01-03T00:00:00",
-    "decided_at":"2026-01-04T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000081",
     "employee_id":"EMP-000046",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-04",
-    "status":"REJECTED",
+    "end_date":"2026-01-05",
+    "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
     "decided_at":"2026-01-02T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000082",
     "employee_id":"EMP-000047",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-12",
+    "end_date":"2026-01-13",
     "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
@@ -822,19 +822,19 @@
   {
     "leave_request_id":"LVE-2026-000083",
     "employee_id":"EMP-000076",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-01",
-    "end_date":"2026-01-01",
-    "status":"APPROVED",
+    "end_date":"2026-01-02",
+    "status":"PENDING",
     "submitted_at":"2025-12-29T00:00:00",
-    "decided_at":"2025-12-30T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000084",
     "employee_id":"EMP-000072",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-04",
-    "end_date":"2026-01-04",
+    "end_date":"2026-01-05",
     "status":"APPROVED",
     "submitted_at":"2026-01-01T00:00:00",
     "decided_at":"2026-01-02T00:00:00"
@@ -845,16 +845,16 @@
     "leave_type":"ANNUAL",
     "start_date":"2026-01-01",
     "end_date":"2026-01-03",
-    "status":"PENDING",
+    "status":"APPROVED",
     "submitted_at":"2025-12-29T00:00:00",
-    "decided_at":""
+    "decided_at":"2025-12-30T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000086",
     "employee_id":"EMP-000043",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-07",
+    "end_date":"2026-01-08",
     "status":"APPROVED",
     "submitted_at":"2026-01-03T00:00:00",
     "decided_at":"2026-01-04T00:00:00"
@@ -862,7 +862,7 @@
   {
     "leave_request_id":"LVE-2026-000087",
     "employee_id":"EMP-000052",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-12",
     "end_date":"2026-01-14",
     "status":"APPROVED",
@@ -872,17 +872,17 @@
   {
     "leave_request_id":"LVE-2026-000088",
     "employee_id":"EMP-000022",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-07",
     "end_date":"2026-01-08",
-    "status":"PENDING",
+    "status":"APPROVED",
     "submitted_at":"2026-01-04T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-05T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000089",
     "employee_id":"EMP-000020",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-07",
     "end_date":"2026-01-07",
     "status":"APPROVED",
@@ -892,19 +892,19 @@
   {
     "leave_request_id":"LVE-2026-000090",
     "employee_id":"EMP-000001",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-14",
-    "end_date":"2026-01-16",
-    "status":"PENDING",
+    "end_date":"2026-01-14",
+    "status":"REJECTED",
     "submitted_at":"2026-01-11T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-12T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000091",
     "employee_id":"EMP-000017",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-13",
+    "end_date":"2026-01-12",
     "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
@@ -915,23 +915,13 @@
     "leave_type":"ANNUAL",
     "start_date":"2026-01-04",
     "end_date":"2026-01-06",
-    "status":"APPROVED",
+    "status":"REJECTED",
     "submitted_at":"2026-01-01T00:00:00",
     "decided_at":"2026-01-02T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000093",
     "employee_id":"EMP-000046",
-    "leave_type":"SICK",
-    "start_date":"2026-01-05",
-    "end_date":"2026-01-05",
-    "status":"PENDING",
-    "submitted_at":"2026-01-02T00:00:00",
-    "decided_at":""
-  },
-  {
-    "leave_request_id":"LVE-2026-000094",
-    "employee_id":"EMP-000032",
     "leave_type":"ANNUAL",
     "start_date":"2026-01-05",
     "end_date":"2026-01-06",
@@ -940,11 +930,21 @@
     "decided_at":"2026-01-03T00:00:00"
   },
   {
+    "leave_request_id":"LVE-2026-000094",
+    "employee_id":"EMP-000032",
+    "leave_type":"SICK",
+    "start_date":"2026-01-05",
+    "end_date":"2026-01-05",
+    "status":"APPROVED",
+    "submitted_at":"2026-01-02T00:00:00",
+    "decided_at":"2026-01-03T00:00:00"
+  },
+  {
     "leave_request_id":"LVE-2026-000095",
     "employee_id":"EMP-000048",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-01",
-    "end_date":"2026-01-03",
+    "end_date":"2026-01-01",
     "status":"REJECTED",
     "submitted_at":"2025-12-29T00:00:00",
     "decided_at":"2025-12-30T00:00:00"
@@ -952,9 +952,9 @@
   {
     "leave_request_id":"LVE-2026-000096",
     "employee_id":"EMP-000046",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-13",
+    "end_date":"2026-01-11",
     "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
@@ -962,10 +962,10 @@
   {
     "leave_request_id":"LVE-2026-000097",
     "employee_id":"EMP-000007",
-    "leave_type":"SICK",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-11",
-    "status":"APPROVED",
+    "end_date":"2026-01-09",
+    "status":"REJECTED",
     "submitted_at":"2026-01-06T00:00:00",
     "decided_at":"2026-01-07T00:00:00"
   },
@@ -975,26 +975,26 @@
     "leave_type":"PERSONAL",
     "start_date":"2026-01-10",
     "end_date":"2026-01-11",
-    "status":"REJECTED",
+    "status":"APPROVED",
     "submitted_at":"2026-01-07T00:00:00",
     "decided_at":"2026-01-08T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000099",
     "employee_id":"EMP-000034",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-03",
-    "end_date":"2026-01-05",
-    "status":"APPROVED",
+    "end_date":"2026-01-03",
+    "status":"REJECTED",
     "submitted_at":"2025-12-31T00:00:00",
     "decided_at":"2026-01-01T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000100",
     "employee_id":"EMP-000044",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-10",
+    "end_date":"2026-01-09",
     "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
     "decided_at":"2026-01-07T00:00:00"
@@ -1002,17 +1002,17 @@
   {
     "leave_request_id":"LVE-2026-000101",
     "employee_id":"EMP-000008",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-10",
     "end_date":"2026-01-10",
-    "status":"APPROVED",
+    "status":"PENDING",
     "submitted_at":"2026-01-07T00:00:00",
-    "decided_at":"2026-01-08T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000102",
     "employee_id":"EMP-000073",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-13",
     "end_date":"2026-01-14",
     "status":"APPROVED",
@@ -1024,17 +1024,17 @@
     "employee_id":"EMP-000034",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-06",
-    "status":"APPROVED",
+    "end_date":"2026-01-08",
+    "status":"PENDING",
     "submitted_at":"2026-01-03T00:00:00",
-    "decided_at":"2026-01-04T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000104",
     "employee_id":"EMP-000023",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-13",
+    "end_date":"2026-01-11",
     "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
@@ -1044,7 +1044,7 @@
     "employee_id":"EMP-000028",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-13",
-    "end_date":"2026-01-14",
+    "end_date":"2026-01-15",
     "status":"APPROVED",
     "submitted_at":"2026-01-10T00:00:00",
     "decided_at":"2026-01-11T00:00:00"
@@ -1052,49 +1052,49 @@
   {
     "leave_request_id":"LVE-2026-000106",
     "employee_id":"EMP-000006",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-02",
     "end_date":"2026-01-03",
-    "status":"PENDING",
+    "status":"APPROVED",
     "submitted_at":"2025-12-30T00:00:00",
-    "decided_at":""
+    "decided_at":"2025-12-31T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000107",
     "employee_id":"EMP-000050",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-09",
-    "end_date":"2026-01-11",
-    "status":"PENDING",
+    "end_date":"2026-01-09",
+    "status":"APPROVED",
     "submitted_at":"2026-01-06T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-07T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000108",
     "employee_id":"EMP-000070",
     "leave_type":"SICK",
     "start_date":"2026-01-02",
-    "end_date":"2026-01-02",
-    "status":"APPROVED",
+    "end_date":"2026-01-04",
+    "status":"PENDING",
     "submitted_at":"2025-12-30T00:00:00",
-    "decided_at":"2025-12-31T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000109",
     "employee_id":"EMP-000010",
-    "leave_type":"ANNUAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-07",
-    "end_date":"2026-01-07",
-    "status":"APPROVED",
+    "end_date":"2026-01-08",
+    "status":"PENDING",
     "submitted_at":"2026-01-04T00:00:00",
-    "decided_at":"2026-01-05T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000110",
     "employee_id":"EMP-000069",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-12",
-    "end_date":"2026-01-12",
+    "end_date":"2026-01-14",
     "status":"PENDING",
     "submitted_at":"2026-01-09T00:00:00",
     "decided_at":""
@@ -1105,7 +1105,7 @@
     "leave_type":"ANNUAL",
     "start_date":"2026-01-05",
     "end_date":"2026-01-07",
-    "status":"APPROVED",
+    "status":"REJECTED",
     "submitted_at":"2026-01-02T00:00:00",
     "decided_at":"2026-01-03T00:00:00"
   },
@@ -1114,20 +1114,20 @@
     "employee_id":"EMP-000014",
     "leave_type":"PERSONAL",
     "start_date":"2026-01-06",
-    "end_date":"2026-01-06",
-    "status":"APPROVED",
+    "end_date":"2026-01-08",
+    "status":"PENDING",
     "submitted_at":"2026-01-03T00:00:00",
-    "decided_at":"2026-01-04T00:00:00"
+    "decided_at":""
   },
   {
     "leave_request_id":"LVE-2026-000113",
     "employee_id":"EMP-000057",
-    "leave_type":"PERSONAL",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-10",
-    "end_date":"2026-01-10",
-    "status":"PENDING",
+    "end_date":"2026-01-12",
+    "status":"APPROVED",
     "submitted_at":"2026-01-07T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-08T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000114",
@@ -1135,16 +1135,16 @@
     "leave_type":"PERSONAL",
     "start_date":"2026-01-06",
     "end_date":"2026-01-07",
-    "status":"REJECTED",
+    "status":"APPROVED",
     "submitted_at":"2026-01-03T00:00:00",
     "decided_at":"2026-01-04T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000115",
     "employee_id":"EMP-000028",
-    "leave_type":"PERSONAL",
+    "leave_type":"SICK",
     "start_date":"2026-01-11",
-    "end_date":"2026-01-13",
+    "end_date":"2026-01-12",
     "status":"APPROVED",
     "submitted_at":"2026-01-08T00:00:00",
     "decided_at":"2026-01-09T00:00:00"
@@ -1152,35 +1152,25 @@
   {
     "leave_request_id":"LVE-2026-000116",
     "employee_id":"EMP-000008",
-    "leave_type":"ANNUAL",
+    "leave_type":"PERSONAL",
     "start_date":"2026-01-01",
     "end_date":"2026-01-02",
-    "status":"REJECTED",
+    "status":"APPROVED",
     "submitted_at":"2025-12-29T00:00:00",
     "decided_at":"2025-12-30T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000117",
     "employee_id":"EMP-000024",
-    "leave_type":"SICK",
+    "leave_type":"ANNUAL",
     "start_date":"2026-01-03",
     "end_date":"2026-01-05",
-    "status":"PENDING",
+    "status":"REJECTED",
     "submitted_at":"2025-12-31T00:00:00",
-    "decided_at":""
+    "decided_at":"2026-01-01T00:00:00"
   },
   {
     "leave_request_id":"LVE-2026-000118",
-    "employee_id":"EMP-000066",
-    "leave_type":"ANNUAL",
-    "start_date":"2026-01-08",
-    "end_date":"2026-01-10",
-    "status":"APPROVED",
-    "submitted_at":"2026-01-05T00:00:00",
-    "decided_at":"2026-01-06T00:00:00"
-  },
-  {
-    "leave_request_id":"LVE-2026-000119",
     "employee_id":"EMP-000066",
     "leave_type":"SICK",
     "start_date":"2026-01-08",
@@ -1190,13 +1180,33 @@
     "decided_at":"2026-01-06T00:00:00"
   },
   {
+    "leave_request_id":"LVE-2026-000119",
+    "employee_id":"EMP-000066",
+    "leave_type":"PERSONAL",
+    "start_date":"2026-01-08",
+    "end_date":"2026-01-09",
+    "status":"APPROVED",
+    "submitted_at":"2026-01-05T00:00:00",
+    "decided_at":"2026-01-06T00:00:00"
+  },
+  {
     "leave_request_id":"LVE-2026-000120",
     "employee_id":"EMP-000070",
     "leave_type":"SICK",
     "start_date":"2026-01-07",
     "end_date":"2026-01-07",
-    "status":"APPROVED",
+    "status":"PENDING",
     "submitted_at":"2026-01-04T00:00:00",
-    "decided_at":"2026-01-05T00:00:00"
+    "decided_at":""
+  },
+  {
+    "leave_request_id":"LVE-2026-ANOM-0001",
+    "employee_id":"EMP-000025",
+    "leave_type":"ANNUAL",
+    "start_date":"2026-01-01",
+    "end_date":"2026-01-01",
+    "status":"APPROVED",
+    "submitted_at":"2025-12-29T00:00:00",
+    "decided_at":"2025-12-30T00:00:00"
   }
 ]

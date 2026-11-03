@@ -4,71 +4,70 @@
   "scale": "starter",
   "start_date": "2026-01-01",
   "days": 14,
-  "generated_at_utc": "2026-11-03T04:51:00.664740Z",
   "tables": {
     "team": {
       "rows": 8,
-      "sha256": "b501c15551e4390419a639afaed1183bf6ba5cae05ecaece1b3ec97c08ceea32",
+      "sha256": "074464bbd282f53e724abebc0c61ea8c3d23e2d207e38b9559b0976784319b91",
       "file": "team.csv"
     },
     "skill": {
       "rows": 8,
-      "sha256": "b643286ad235c66a44ce3d3328ac127d4f44bbc891ffc07f5da163e6c27c7bad",
+      "sha256": "166c87e6b1c7d0afc01d254b35d23bc848be733ad49c092175ccf27d28dca812",
       "file": "skill.csv"
     },
     "shift_template": {
       "rows": 3,
-      "sha256": "edda1c4c9a67c435ea979fbaee56a04f35c9d3602445706a834b5702c8a184b0",
+      "sha256": "95e7ec48884065dccc80f0b9115b47f9e449e4158938e874e23ce8a9687ad9dc",
       "file": "shift_template.csv"
     },
     "employee": {
       "rows": 80,
-      "sha256": "26033b56940436fcb6932df7b69c10feb521b4e1d3554f436c42b4aaa0ed66e4",
+      "sha256": "d2c12676f517297c8b0c0e3fdec39445ead2af40a627fa15f64dcd055f42eff9",
       "file": "employee.csv"
     },
     "employee_skill": {
-      "rows": 162,
-      "sha256": "f9c94a709f0c512470500c745c7b13bbbfb1ed0606a9023a5ae812352066d302",
+      "rows": 251,
+      "sha256": "993f20ff19b994ecd75d76adb5e306302f967519d0eaaa6c4e4f5791451fdc91",
       "file": "employee_skill.csv"
     },
     "holiday_calendar": {
       "rows": 0,
-      "sha256": "0f9b9053da38593217ee477dd409dec225eb61e36c71468f60f99077d580786c",
+      "sha256": "69e09f2072b4c852f4ca128a5ff4fceea0f15ffb2b50694860a5084c2d58c603",
       "file": "holiday_calendar.csv"
     },
     "shift": {
-      "rows": 336,
-      "sha256": "e8d6a596d9a37f3f12165b6d89b49f8793b96d079db7c31927811f6566d3c3e0",
+      "rows": 337,
+      "sha256": "825dd6d2b6bf98f6908fb86766aa1a266dd66fbd0cee7ab4390a665bdb932cc2",
       "file": "shift.csv"
     },
     "coverage_requirement": {
       "rows": 420,
-      "sha256": "37bb5a9b8370d70ef18393ae360e4d72f385813f0a05d81dba38f31fbbe40513",
+      "sha256": "82325a85679115f1b1bdf87d27c977acc938cded411d3fa0caf8b5f944631729",
       "file": "coverage_requirement.csv"
     },
     "leave_request": {
-      "rows": 120,
-      "sha256": "f94bb8fb52eea75ef4768720703a6b869843b48fab42444b36bf8c8dd91840de",
+      "rows": 121,
+      "sha256": "85f11a02612c8d08e8f5eea4f6dad1c8d296acce149130a0812f8aec6b210c67",
       "file": "leave_request.csv"
     },
     "shift_assignment": {
-      "rows": 735,
-      "sha256": "b23d6d0d23e59c1d689bb0e34825cac49c1f1f625e215822d26898c411b3720e",
+      "rows": 754,
+      "sha256": "54a7a2a7501cce335b452274e10c4157a0d8c68eea6a0e2bf6ca14eac5b85baf",
       "file": "shift_assignment.csv"
     },
     "attendance_event": {
-      "rows": 597,
-      "sha256": "7fec6374d2264f887918549c311f2c249a4ee1a21f39e3c0f876365a4769ffe3",
+      "rows": 713,
+      "sha256": "26bd44b9e6dc5a1cf8a9184533714caf8047743e01af5065a42738f4279b1117",
       "file": "attendance_event.csv"
     },
     "swap_request": {
       "rows": 1,
-      "sha256": "3b9681e9f0b06a76b049d0d156b3a925ed3c38f58ce1cc09b12db7969c5d5c70",
+      "sha256": "ba3384338e4f62073a586e590f8c30f88f05ac424d3bfac71c5c9f393e6c3991",
       "file": "swap_request.csv"
     },
     "ground_truth": {
       "rows": 5,
-      "sha256": "586c50700af423e0032e890c06ce2f65085fe7268dc45fe85fd18c3c4414b5d1",
+      "sha256": "839ea7ee8fb13e8514314b942827a328d807c38c56714c47e5941c8f6f070746",
       "file": "ground_truth.csv"
     }
   }

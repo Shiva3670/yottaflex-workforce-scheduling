@@ -2,28 +2,28 @@
   {
     "issue_type":"APPROVED_LEAVE_OVERLAP",
     "entity_type":"ShiftAssignment",
-    "entity_id":"ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000009",
+    "entity_id":"ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000025",
     "ground_truth":"FLAG_CONFLICT",
     "severity":"HIGH"
   },
   {
     "issue_type":"DOUBLE_BOOKED",
     "entity_type":"ShiftAssignment",
-    "entity_id":"ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000009",
+    "entity_id":"ANOM-DOUBLE-ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000049",
     "ground_truth":"FLAG_CONFLICT",
     "severity":"HIGH"
   },
   {
     "issue_type":"REQUIRED_SKILL_ABSENT",
     "entity_type":"ShiftAssignment",
-    "entity_id":"ASG-SHIFT-2026-01-01-A-T001-SKL-001-EMP-000017",
+    "entity_id":"ASG-SHIFT-2026-01-01-A-T001-SKL-002-EMP-000001",
     "ground_truth":"FLAG_SKILL_MISMATCH",
     "severity":"HIGH"
   },
   {
     "issue_type":"OVERTIME_CAP_EXCEEDED",
     "entity_type":"Employee",
-    "entity_id":"EMP-000001",
+    "entity_id":"EMP-000009",
     "ground_truth":"FLAG_OVERTIME",
     "severity":"HIGH"
   },

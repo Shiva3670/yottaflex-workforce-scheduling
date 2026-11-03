@@ -6,7 +6,7 @@
     "email":"emp-000001@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-12-30",
+    "hire_date":"2023-01-16",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -17,7 +17,7 @@
     "email":"emp-000002@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-02-29",
+    "hire_date":"2024-10-23",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -28,9 +28,9 @@
     "email":"emp-000003@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-04-10",
-    "weekly_hours_cap":48,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2021-03-12",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000004",
@@ -39,9 +39,9 @@
     "email":"emp-000004@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-04-23",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2019-08-21",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000005",
@@ -50,7 +50,7 @@
     "email":"emp-000005@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-05-16",
+    "hire_date":"2023-04-28",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -61,7 +61,7 @@
     "email":"emp-000006@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-06-12",
+    "hire_date":"2021-05-19",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -72,9 +72,9 @@
     "email":"emp-000007@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-03-29",
+    "hire_date":"2025-06-05",
     "weekly_hours_cap":40,
-    "contract_type":"PART_TIME"
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000008",
@@ -83,9 +83,9 @@
     "email":"emp-000008@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-01-24",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2021-07-25",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000009",
@@ -94,7 +94,7 @@
     "email":"emp-000009@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-06-06",
+    "hire_date":"2024-03-08",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -105,7 +105,7 @@
     "email":"emp-000010@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-01-01",
+    "hire_date":"2025-07-13",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -116,9 +116,9 @@
     "email":"emp-000011@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-11-11",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2024-11-21",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000012",
@@ -127,9 +127,9 @@
     "email":"emp-000012@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-05-03",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2021-10-17",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000013",
@@ -138,7 +138,7 @@
     "email":"emp-000013@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-04-08",
+    "hire_date":"2020-07-07",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -149,7 +149,7 @@
     "email":"emp-000014@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-05-16",
+    "hire_date":"2021-08-09",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -160,7 +160,7 @@
     "email":"emp-000015@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-04-16",
+    "hire_date":"2022-09-27",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -171,7 +171,7 @@
     "email":"emp-000016@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-04-05",
+    "hire_date":"2023-07-14",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -182,7 +182,7 @@
     "email":"emp-000017@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-07-19",
+    "hire_date":"2020-12-24",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -193,9 +193,9 @@
     "email":"emp-000018@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-08-28",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2020-09-19",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000019",
@@ -204,7 +204,7 @@
     "email":"emp-000019@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-03-31",
+    "hire_date":"2019-05-25",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -215,7 +215,7 @@
     "email":"emp-000020@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-04-03",
+    "hire_date":"2023-01-21",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -226,7 +226,7 @@
     "email":"emp-000021@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-07-28",
+    "hire_date":"2022-10-28",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -237,7 +237,7 @@
     "email":"emp-000022@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-09-17",
+    "hire_date":"2019-04-03",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -248,8 +248,8 @@
     "email":"emp-000023@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-12-26",
-    "weekly_hours_cap":48,
+    "hire_date":"2019-09-04",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -259,8 +259,8 @@
     "email":"emp-000024@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-12-10",
-    "weekly_hours_cap":48,
+    "hire_date":"2025-09-17",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -270,9 +270,9 @@
     "email":"emp-000025@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-11-22",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2025-05-11",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000026",
@@ -281,7 +281,7 @@
     "email":"emp-000026@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-07-22",
+    "hire_date":"2024-12-10",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -292,7 +292,7 @@
     "email":"emp-000027@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-10-25",
+    "hire_date":"2024-10-18",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -303,7 +303,7 @@
     "email":"emp-000028@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-09-03",
+    "hire_date":"2022-05-24",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -314,9 +314,9 @@
     "email":"emp-000029@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-07-10",
+    "hire_date":"2020-08-01",
     "weekly_hours_cap":40,
-    "contract_type":"PART_TIME"
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000030",
@@ -325,7 +325,7 @@
     "email":"emp-000030@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-02-05",
+    "hire_date":"2021-04-01",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -336,7 +336,7 @@
     "email":"emp-000031@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-09-01",
+    "hire_date":"2020-09-04",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -347,7 +347,7 @@
     "email":"emp-000032@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-05-17",
+    "hire_date":"2020-03-17",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -358,7 +358,7 @@
     "email":"emp-000033@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-07-16",
+    "hire_date":"2023-05-12",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -369,7 +369,7 @@
     "email":"emp-000034@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-11-21",
+    "hire_date":"2023-05-17",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -380,7 +380,7 @@
     "email":"emp-000035@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-12-25",
+    "hire_date":"2025-11-06",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -391,8 +391,8 @@
     "email":"emp-000036@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-12-15",
-    "weekly_hours_cap":48,
+    "hire_date":"2022-10-14",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -402,9 +402,9 @@
     "email":"emp-000037@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-04-03",
+    "hire_date":"2019-12-25",
     "weekly_hours_cap":40,
-    "contract_type":"PART_TIME"
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000038",
@@ -413,9 +413,9 @@
     "email":"emp-000038@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-09-25",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2025-02-10",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000039",
@@ -424,9 +424,9 @@
     "email":"emp-000039@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-02-26",
-    "weekly_hours_cap":48,
-    "contract_type":"PART_TIME"
+    "hire_date":"2019-03-10",
+    "weekly_hours_cap":40,
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000040",
@@ -435,8 +435,8 @@
     "email":"emp-000040@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-04-03",
-    "weekly_hours_cap":48,
+    "hire_date":"2021-07-13",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -446,7 +446,7 @@
     "email":"emp-000041@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-07-18",
+    "hire_date":"2020-02-26",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -457,7 +457,7 @@
     "email":"emp-000042@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-01-04",
+    "hire_date":"2019-11-23",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -468,7 +468,7 @@
     "email":"emp-000043@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-10-02",
+    "hire_date":"2025-02-08",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -479,7 +479,7 @@
     "email":"emp-000044@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-05-06",
+    "hire_date":"2019-12-12",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -490,7 +490,7 @@
     "email":"emp-000045@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-11-22",
+    "hire_date":"2020-10-26",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -501,7 +501,7 @@
     "email":"emp-000046@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-05-28",
+    "hire_date":"2024-03-21",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -512,7 +512,7 @@
     "email":"emp-000047@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-01-19",
+    "hire_date":"2022-03-08",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -523,7 +523,7 @@
     "email":"emp-000048@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-12-19",
+    "hire_date":"2025-06-10",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -534,7 +534,7 @@
     "email":"emp-000049@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-01-20",
+    "hire_date":"2023-09-26",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -545,7 +545,7 @@
     "email":"emp-000050@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-01-17",
+    "hire_date":"2022-08-04",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -556,7 +556,7 @@
     "email":"emp-000051@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-04-21",
+    "hire_date":"2025-07-20",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -567,7 +567,7 @@
     "email":"emp-000052@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-12-18",
+    "hire_date":"2021-05-28",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -578,7 +578,7 @@
     "email":"emp-000053@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-08-05",
+    "hire_date":"2024-12-01",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -589,8 +589,8 @@
     "email":"emp-000054@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-06-05",
-    "weekly_hours_cap":48,
+    "hire_date":"2020-11-05",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -600,7 +600,7 @@
     "email":"emp-000055@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-08-26",
+    "hire_date":"2025-06-27",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -611,9 +611,9 @@
     "email":"emp-000056@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-07-01",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2024-04-10",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000057",
@@ -622,8 +622,8 @@
     "email":"emp-000057@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-02-14",
-    "weekly_hours_cap":48,
+    "hire_date":"2024-12-09",
+    "weekly_hours_cap":24,
     "contract_type":"PART_TIME"
   },
   {
@@ -633,7 +633,7 @@
     "email":"emp-000058@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-06-22",
+    "hire_date":"2023-12-15",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -644,9 +644,9 @@
     "email":"emp-000059@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-10-19",
-    "weekly_hours_cap":48,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2021-02-10",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000060",
@@ -655,7 +655,7 @@
     "email":"emp-000060@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-07-23",
+    "hire_date":"2024-05-13",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -666,7 +666,7 @@
     "email":"emp-000061@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-03-15",
+    "hire_date":"2023-09-08",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -677,8 +677,8 @@
     "email":"emp-000062@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-02-24",
-    "weekly_hours_cap":48,
+    "hire_date":"2022-03-26",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -688,7 +688,7 @@
     "email":"emp-000063@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-03-25",
+    "hire_date":"2023-12-15",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -699,7 +699,7 @@
     "email":"emp-000064@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-04-04",
+    "hire_date":"2024-10-08",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -710,9 +710,9 @@
     "email":"emp-000065@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-09-09",
+    "hire_date":"2024-08-24",
     "weekly_hours_cap":40,
-    "contract_type":"PART_TIME"
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000066",
@@ -721,7 +721,7 @@
     "email":"emp-000066@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-12-09",
+    "hire_date":"2019-12-23",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -732,7 +732,7 @@
     "email":"emp-000067@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-10-11",
+    "hire_date":"2024-11-02",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -743,7 +743,7 @@
     "email":"emp-000068@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-03-28",
+    "hire_date":"2020-05-07",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -754,8 +754,8 @@
     "email":"emp-000069@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-08-05",
-    "weekly_hours_cap":48,
+    "hire_date":"2022-08-03",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -765,7 +765,7 @@
     "email":"emp-000070@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-07-15",
+    "hire_date":"2023-09-20",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -776,8 +776,8 @@
     "email":"emp-000071@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-09-30",
-    "weekly_hours_cap":48,
+    "hire_date":"2023-06-18",
+    "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
   {
@@ -787,9 +787,9 @@
     "email":"emp-000072@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2025-06-23",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2023-10-08",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000073",
@@ -798,9 +798,9 @@
     "email":"emp-000073@example.test",
     "team_id":"TEAM-0001",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-01-27",
-    "weekly_hours_cap":40,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2025-04-29",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   },
   {
     "employee_id":"EMP-000074",
@@ -809,7 +809,7 @@
     "email":"emp-000074@example.test",
     "team_id":"TEAM-0002",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-11-13",
+    "hire_date":"2025-09-13",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -820,7 +820,7 @@
     "email":"emp-000075@example.test",
     "team_id":"TEAM-0003",
     "employment_status":"ACTIVE",
-    "hire_date":"2019-08-05",
+    "hire_date":"2025-04-23",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -831,9 +831,9 @@
     "email":"emp-000076@example.test",
     "team_id":"TEAM-0004",
     "employment_status":"ACTIVE",
-    "hire_date":"2021-07-28",
+    "hire_date":"2024-01-09",
     "weekly_hours_cap":40,
-    "contract_type":"PART_TIME"
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000077",
@@ -842,9 +842,9 @@
     "email":"emp-000077@example.test",
     "team_id":"TEAM-0005",
     "employment_status":"ACTIVE",
-    "hire_date":"2024-07-13",
+    "hire_date":"2021-02-26",
     "weekly_hours_cap":40,
-    "contract_type":"PART_TIME"
+    "contract_type":"FULL_TIME"
   },
   {
     "employee_id":"EMP-000078",
@@ -853,7 +853,7 @@
     "email":"emp-000078@example.test",
     "team_id":"TEAM-0006",
     "employment_status":"ACTIVE",
-    "hire_date":"2023-08-26",
+    "hire_date":"2020-11-30",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -864,7 +864,7 @@
     "email":"emp-000079@example.test",
     "team_id":"TEAM-0007",
     "employment_status":"ACTIVE",
-    "hire_date":"2022-10-06",
+    "hire_date":"2020-01-09",
     "weekly_hours_cap":40,
     "contract_type":"FULL_TIME"
   },
@@ -875,8 +875,8 @@
     "email":"emp-000080@example.test",
     "team_id":"TEAM-0008",
     "employment_status":"ACTIVE",
-    "hire_date":"2020-05-20",
-    "weekly_hours_cap":48,
-    "contract_type":"FULL_TIME"
+    "hire_date":"2021-07-14",
+    "weekly_hours_cap":24,
+    "contract_type":"PART_TIME"
   }
 ]
